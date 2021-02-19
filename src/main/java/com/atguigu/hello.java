@@ -8,5 +8,6 @@ public class hello {
         System.out.println("masterTest");
         System.out.println("ssssss");
         System.out.println("github");
+        System.out.println("idea");
     }
 }
